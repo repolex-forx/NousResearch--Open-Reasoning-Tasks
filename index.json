@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "Open-Reasoning-Tasks",
+  "versions": [
+    {
+      "commit": "35df7000b8f636178e303add868415b30f92cad0",
+      "tag": "",
+      "parsed_at": "2026-10-09T13:23:36.353137+00:00"
+    }
+  ]
+}
