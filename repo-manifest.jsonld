@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/Open-Reasoning-Tasks/commit/35df7000b8f636178e303add868415b30f92cad0",
       "git:hexsha": "35df7000b8f636178e303add868415b30f92cad0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
